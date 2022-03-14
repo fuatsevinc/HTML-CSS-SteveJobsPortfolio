@@ -1,3 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#body{
+    background: rgb(175, 54, 54);
+    
+}
 #title {
   text-align: center;
   font-size: 70px;
@@ -15,6 +23,7 @@ span {
   margin-left: auto;
   margin-right: auto;
   border-radius: 25px;
+
 }
 
 #paragraph{
